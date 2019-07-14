@@ -1,0 +1,27 @@
+h1 {
+  font-family: sans-serif;
+  display: inline-block;
+}
+.navbar {
+    background-color: #232524;
+    position: relative;
+    z-index: 1000;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 30px;
+    width: 15vw;
+    padding: 20px;
+
+  }
+
+a {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  display: flex;
+  padding-bottom: 10px;
+}

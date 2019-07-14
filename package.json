@@ -1,0 +1,19 @@
+{
+  "name": "gbillings-site",
+  "version": "1.0.0",
+  "description": "personal website of Gabrielle Billings",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcadiana/gab-site.git"
+  },
+  "author": "Gabrielle Billings <gab@gabbybillings.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcadiana/gab-site/issues"
+  },
+  "homepage": "https://github.com/arcadiana/gab-site#readme"
+}
